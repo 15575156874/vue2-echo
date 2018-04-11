@@ -117,12 +117,5 @@ npm run build
 ## 交流
 
 欢迎热爱学习、忠于分享的朋友一起来交流
-- QQ：771674109
-- WX：L771674109
+- QQ：396595768
 
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2017-present，uncleLian
