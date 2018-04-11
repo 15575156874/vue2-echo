@@ -49,14 +49,6 @@
 4、手机查看项目有些浏览器不支持自动播放音乐的，需要手动触发。
 ```
 
-## 效果演示 
-
-[查看deme请戳这里](http://echo.liansixin.win)（请使用chrome手机模式预览）
-
-### 移动端扫描下方二维码
-
-<img src="https://github.com/uncleLian/vue2-echo/raw/master/screenshots/echo_QRcode.png" width="250" height="250"/>
-
 ## 功能
 
 - [x] 全站内播放（单页面优点）
